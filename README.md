@@ -15,8 +15,8 @@ https://t.me/toneachat
 课件地址：https://ton-org.notion.site/TON-NFT-2-0-2655274bd2cf807291edda0280c42e59
 
 领奖信息收集：
-1. 你的 Telegram 用户名 = ？
-2. 你的主网 TON 钱包地址 = ？
+1. 你的 Telegram 用户名 = @finterov
+2. 你的主网 TON 钱包地址 = UQCWFuq6WOIk1XmR3ncaYVYRh1j9WcXAGkzWcNhHq3IKCdG
 
 
 ## 任务：构思 NFT 版权方案
@@ -31,5 +31,7 @@ https://t.me/toneachat
 2. 你的方案有什么优势？
 3. 你的方案有什么取舍和不足？
 
-
+方案: 使用灵魂绑定（Soulbound）许可证NFT，确保权益绑定到单一持有者。
+优势: 防止转售滥用；强身份绑定。
+权衡点: 不可转让；对收藏者吸引力降低。
 
